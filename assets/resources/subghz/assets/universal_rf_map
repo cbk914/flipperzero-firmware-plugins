@@ -1,12 +1,12 @@
 Filetype: Flipper SubGhz RAW File
 Version: 1
-UP: /ext/subghz/Up.sub
-DOWN: /ext/subghz/Down.sub
+UP: /any/subghz/Vehicles/Tesla/Tesla_charge_AM270.sub
+DOWN: /any/subghz/Vehicles/Tesla/Tesla_charge_AM650.sub
 LEFT: /ext/subghz/Left.sub
 RIGHT: /ext/subghz/Right.sub
 OK: /ext/subghz/Ok.sub
 ULABEL: Up Label
-DLABEL: Down Label
-LLABEL: Left Label
-RLABEL: Right Label
-OKLABEL: Ok Label
+DLABEL: not mapped
+LLABEL: not mapped
+RLABEL: not mapped
+OKLABEL: not mapped
