@@ -1,0 +1,7 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/jukebox/brute/P2.sub
+DOWN: /any/subghz/jukebox/brute/Pause.sub
+LEFT: /any/subghz/jukebox/brute/On_Off.sub
+RIGHT: /any/subghz/jukebox/brute/P1.sub
+OK: /any/subghz/jukebox/brute/OK.sub
