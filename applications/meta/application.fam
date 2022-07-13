@@ -60,5 +60,9 @@ App(
         "clock",
         "spectrum_analyzer",
         "unirfremix",
+        "jukebox",
+        "barcode_generator",
+        "mouse_jiggler",
+        "mousejacker",
     ],
 )
